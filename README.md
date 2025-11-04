@@ -1,61 +1,98 @@
-Housepital (Medical Care)
+# Houspital
 
-Project Description
-Housepital – Home Healthcare Service App
-Housepital is a comprehensive home care service designed to bring medical support directly to the patient’s home. The platform covers all human medical specialties, a dedicated dentistry section, a medication delivery service, and lab test services—all available on-demand without the need to leave home.
+**Houspital** — a smart combination of “House” and “Hospital.”  
+The core idea is to bring doctors directly to your home, allowing patients to book home visits, hospital appointments, or even emergency services with just a few taps.
 
-Team Members
+---
 
-Abdelrahman Mohamed Hegab
+## 1. Project Idea
 
-Ahmed Mohamed ElSissy
+**Houspital** is a mobile application designed to help users easily book appointments with doctors who provide home visit services.  
+One of its unique features is enabling doctors to carry all sterilized medical equipment needed for each visit, ensuring a safe and professional home care experience.
 
-Ahmed Atef Azoz
+The app also partners with hospitals to schedule in-person appointments — similar to how food delivery apps prepare your order for pickup.  
+In addition, users can request ambulances with pre-booked hospital destinations, or order prescribed medicines directly from the app’s connected pharmacy network.  
+This network aims to gather all essential medications recommended by doctors, ensuring availability and reliability without bias.
 
-Hassan Attia Almarghali
+---
 
-Mohammed Elsyed Bedair
+## 2. Team Members
 
+1. عبدالرحمن محمد حجاب — *Team Leader*  
+2. حسن عطية المرغني  
+3. احمد عاطف عزوز  
+4. احمد محمد السيسي  
+5. محمد السيد بدير  
 
-UI/UX Task Distribution
-Abdelrahman Mohamed Hegab
-Responsible for Research & User Personas
+---
 
-Conduct user research
+## 3. Work Plan
 
-Build user personas and map user journeys
+The app starts with a series of introductory screens that illustrate its main idea.  
+After secure login for privacy verification, the **Home Screen** displays all core services — including available doctors, nurses, hospitals, medicine delivery, and ambulance booking.
 
-Ahmed Mohamed ElSissy
-Responsible for Information Architecture & Wireframes
+Each section presents clear, user-focused content.  
+For example, in the **Doctors Page**, users can browse doctors by specialization, view their ratings and reviews from previous patients, and access each doctor’s profile page with available time slots to book directly.
 
-Design application flow and navigation
+### Notifications & Messages
+Both patients and doctors receive notifications — for appointments, messages, and upcoming calls.  
+The **Messages Page** allows patients to chat directly with their doctors, either for ongoing consultations or follow-ups that don’t require another home visit.
 
-Structure content across service sections (home care, dentistry, lab tests, medication)
+Within chat, users can schedule calls for continued medical support — for instance, to discuss treatment adjustments, rest requirements, or hospital referrals when needed.
 
-Create low-fidelity wireframes
+### Appointments Page
+Displays all upcoming and past bookings, including hospital visits, home appointments, and video calls, along with clear scheduling details.
 
+### Profile Page
+Each user has a personal page showing their contact details, saved addresses, password settings, and general preferences.
 
-Ahmed Atef Azoz
+---
 
-Responsible for UI Design System
+## 4. Doctor Interface
 
-Define color palette, typography, icons, and buttons
+Doctors have their own dashboard that displays:
+- Today’s scheduled home visits.
+- Recent patients and chat access for follow-ups.
+- A notification center for appointment updates and new messages.
 
-Develop reusable component library
+Doctors can also:
+- View patient history (age, weight, blood type, and medical reports).
+- Update or reschedule appointments.
+- Search for patients they’ve previously treated.
 
-Hassan Attia Almarghali
-Responsible for High-Fidelity Prototyping
+Each doctor’s profile includes their rating, patient count, experience, and educational background — visible to users for better decision-making.
 
-Turn wireframes and design system into polished UI screens
+---
 
-Ensure visual hierarchy and consistency
+## 5. Calendar & Booking System
 
-Mohammed Elsyed Bedair
+The integrated **Calendar View** allows both doctors and patients to easily manage weekly schedules and see confirmed bookings for each day.
 
-Responsible for Usability Testing & Interaction Design
+---
 
-Conduct prototype usability tests with users
+## 6. Payment System
 
-Recommend UX improvements
+Payments can be made seamlessly for doctor visits, medicine orders, or hospital services through multiple secure payment methods — designed to be simple and efficient.
 
-Add micro-interactions (animations, transitions)
+---
+
+## 7. Team Roles (Young Designers Initiative)
+
+- **عبدالرحمن حجاب** — *Team Leader*, concept engineering, and overall workflow management.  
+- **حسن عطية** — *Doctor interface designer*, responsible for main screens like chat, calendar, and calls.  
+- **احمد عزوز** — *Core structure developer*, handling notifications, settings, and home screens.  
+- **احمد السيسي** — *Logo, Readme, and user flow designer*.  
+- **محمد بدير** — *User flow and main user interface designer*.
+
+---
+
+## 8. Supervisor
+
+**Eng. جلال بدر**
+
+---
+
+## 9. Credits
+
+All rights reserved © by **(High counsel of Ui)**.  
+This project represents our shared vision of accessible, home-based healthcare made simple through technology.
