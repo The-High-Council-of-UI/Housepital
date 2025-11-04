@@ -94,5 +94,5 @@ Payments can be made seamlessly for doctor visits, medicine orders, or hospital 
 
 ## 9. Credits
 
-All rights reserved © by **(High counsel of Ui)**.  
+All rights reserved © by **(High Counsil of Ui)**.  
 This project represents our shared vision of accessible, home-based healthcare made simple through technology.
